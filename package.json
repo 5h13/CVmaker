@@ -1,0 +1,17 @@
+{
+  "name": "5h13-cv-maker",
+  "version": "1.0.0",
+  "description": "5H13 CV Maker - Installable Progressive Web App (PWA) with LocalStorage persistence.",
+  "scripts": {
+    "start": "npx serve .",
+    "serve": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "pwa",
+    "cv-maker",
+    "resume-builder",
+    "local-storage"
+  ],
+  "author": "5H13",
+  "license": "MIT"
+}
